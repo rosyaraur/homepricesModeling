@@ -1,4 +1,3 @@
-
 #Python analysis project: California Housing Price Prediction
 
 This project focuses on predicting median house values in California using the California Housing Dataset, derived from the 1990 U.S. Census. The dataset includes features such as median income, house age, average rooms, population, and geographic coordinates. The goal is to build and evaluate multiple regression models to estimate housing prices accurately.
